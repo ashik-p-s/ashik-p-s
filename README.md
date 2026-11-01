@@ -4,7 +4,12 @@ ECE Graduate & Aspiring Embedded Systems Engineer specializing in C/C++, Data St
 
 ---
 
-- 🛠️ **Core Tech Stack:** C, C++, Data Structures, Embedded C, Microcontrollers, Linux/WSL.
+### 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -17,5 +22,5 @@ ECE Graduate & Aspiring Embedded Systems Engineer specializing in C/C++, Data St
 
 ### 📬 Connect with Me
 
-- **Email:** [ashik006737@gmail.com](mailto:ashik006737@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ashik-p-s-217a88276](https://linkedin.com/in/ashik-p-s-217a88276)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashik-p-s-217a88276)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashik006737@gmail.com)
