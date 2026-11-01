@@ -4,11 +4,6 @@ ECE Graduate & Aspiring Embedded Systems Engineer specializing in C/C++, Data St
 
 ---
 
-### 🧰 Tech Stack & Environment
-
-**Languages:**  
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c) 
-
 - 🛠️ **Core Tech Stack:** C, C++, Data Structures, Embedded C, Microcontrollers, Linux/WSL.
 
 ---
