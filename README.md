@@ -16,7 +16,7 @@ ECE Graduate & Aspiring Embedded Systems Engineer specializing in C/C++, Data St
 ### 📂 Featured Repositories
 
 - **[Data-Structures-in-C](./Data-Structures-in-C)** — Custom implementations of Hash Tables (Inverted Search) and Doubly Linked Lists (APC Calculator).
-- **[c-programming](./c-programming)** — Low-level C utilities including LSB Steganography, MP3 Tag Editor, and Source2HTML[cite: 16].
+- **[c-programming](./c-programming)** — Low-level C utilities including LSB Steganography, MP3 Tag Editor, and Source2HTML.
 
 ---
 
